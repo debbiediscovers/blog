@@ -1,3 +1,3 @@
-# blog
+# My Favourite Disney Quotes
 
-This is a practice test using Github to create and host a website. 
+Just to practice using Github to create and host a website. 
