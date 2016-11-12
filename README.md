@@ -1,5 +1,5 @@
 
-*My Favourite Disney Quotes*
+**My Favourite Disney Quotes**
 
 Learning git. And graphic design.
 
