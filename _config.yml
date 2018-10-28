@@ -1,0 +1,8 @@
+title: Debbie Discovers Disney
+description: 37  of Disney's most loved quotes in commemoration of Disney's 60th Anniversary
+google_analytics: UA-73113825-1
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
